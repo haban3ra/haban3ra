@@ -27,8 +27,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haban3ra&layout=compact&theme=dracula)](https://github.com/haban3ra/github-readme-stats)
+
 ![Kimchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=haban3ra&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haban3ra&layout=compact&theme=dracula)](https://github.com/haban3ra/github-readme-stats)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
