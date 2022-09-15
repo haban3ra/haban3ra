@@ -21,13 +21,16 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
-![Kimchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=haban3ra&show_icons=true&theme=dracula)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haban3ra&repo=angelayu-bootcamp-2022)](https://github.com/haban3ra/angelayu-bootcamp-2022)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haban3ra&repo=scrimba)]([https://github.com/haban3ra/angelayu-bootcamp-2022](https://github.com/haban3ra/scrimba))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haban3ra&layout=compact&theme=dracula)](https://github.com/haban3ra/github-readme-stats)
+![Kimchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=haban3ra&show_icons=true&theme=dracula)
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <!---
 haban3ra/haban3ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
