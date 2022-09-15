@@ -5,7 +5,7 @@
 - 💞️ I'm into Arduino Development at the moment and I want to integrate Web Development (IoT, Data Science and Mechatronics) and make project prototypes.
 - 📫 Find me on Discord @habanera#7439. While you're here, please check out my [blog](https://kimchibalderrama.me/) as well, or [here](https://kimchibalderrama.vercel.app/) powered by Hugo and Vercel 
 
-![Linkedin][]((https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)linkedin.com/in/kimchibalderrama)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black)
 <!---
 haban3ra/haban3ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
