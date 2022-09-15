@@ -6,6 +6,10 @@
 - 📫 Find me on Discord @habanera#7439. While you're here, please check out my [blog](https://kimchibalderrama.me/) as well, or [here](https://kimchibalderrama.vercel.app/) powered by Hugo and Vercel 
 
 
+<div align="center">
+  
+  
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -23,10 +27,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-
-<div align="center">
-  
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haban3ra&layout=compact&theme=dracula)](https://github.com/haban3ra/github-readme-stats)
 ![Kimchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=haban3ra&show_icons=true&theme=dracula)
 
