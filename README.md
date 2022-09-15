@@ -25,6 +25,7 @@
 
 
 ![Kimchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=haban3ra&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haban3ra&layout=compact&theme=dracula)](https://github.com/haban3ra/github-readme-stats)
 <!---
 haban3ra/haban3ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
