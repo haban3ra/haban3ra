@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kimchi Balderrama
-- 👀 I’m interested in Full Stack Web Development, Data Science and IoT Services
+- 👀 I’m interested in Full Stack Web Development, Data Science and UX Accessibility
 - 🌱 I’m a Project Officer/Data Analyst by profession and a Full Stack Web (MERN & JAM Stack) in my free time. I make use of FreeCodeCamp's Curriculum and edX's CS50. Taking Angela Yu's Webdev Bootcamp on Udemy atm.
 - ✨  I’m looking to collaborate on future projects. I need a mentor who uses MERN stack, can teach me how to be efficient and productive. I love UI-friendly design, so if you're into a bit of graphic stuff, you are welcome! 
-- 💞️ I'm into Arduino Development at the moment and I want to integrate Web Development (IoT, Data Science and Mechatronics) and make project prototypes.
+- 💞️ I'm into Musicals and Podcasts at the moment!
 - 📫 Find me on Discord @habanera#7439. While you're here, please check out my blog [here](https://kimchibalderrama.vercel.app/) powered by Hugo and Vercel 
 
 
